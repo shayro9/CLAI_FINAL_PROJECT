@@ -1,4 +1,7 @@
+<img width="695" height="398" alt="Screenshot_687" src="https://github.com/user-attachments/assets/8d5cb937-2059-40b0-ac12-0ce7fa163521" />
+
 # Stock Market Simulation & Reinforcement Learning
+
 In this project I built with a partner a Stock Market Simulation Environment using Reinforcement Learning (RL)!
 Project Overview:
 We created an OpenAI Gym-compatible stock trading environment and trained an RL agent to make data-driven trading decisions. 
